@@ -9,11 +9,11 @@ description: >-
   or Coffer deposits and withdrawals. Not for Auto vaults or UFloat.
 tags: [defi, vault, float, coffer, robinhood, uniswap-v3]
 version: 1
-visibility: private
+visibility: public
 metadata:
   clawdbot:
     emoji: "🧰"
-    homepage: "https://docs.bankr.bot/skills/in-bankr/skill-format"
+    homepage: "https://github.com/soterialabs2025/coffer_contracts"
 ---
 
 # Coffer (Robinhood vault)
