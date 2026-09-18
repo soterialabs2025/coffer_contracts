@@ -1,0 +1,36 @@
+{
+  "name": "coffer_contracts",
+  "version": "1.0.0",
+  "description": "coffer_contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev",
+    "find-rh-v4-pool": "node scripts/find-rh-v4-poolkey.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^4.0.2",
+    "@nomicfoundation/hardhat-ignition": "^3.0.2",
+    "@nomicfoundation/hardhat-ignition-ethers": "^3.0.3",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
+    "@types/node": "^22.18.0",
+    "@uniswap/v4-core": "^1.0.2",
+    "@uniswap/v4-periphery": "^1.0.3",
+    "ethers": "^6.15.0",
+    "hardhat": "^3.0.4",
+    "typescript": "~5.8.0",
+    "viem": "^2.37.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "@uniswap/sdk-core": "^7.19.0",
+    "@uniswap/swap-router-contracts": "^1.3.1",
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.4",
+    "@uniswap/v3-sdk": "^3.31.1",
+    "@uniswap/v4-sdk": "^2.3.1",
+    "dotenv": "^17.2.2"
+  }
+}
