@@ -10,7 +10,7 @@ ADDRESSES_2.md
 PROD_ADDRESSES_*.md
 TokenKeys.tsx
 RECOVER_SOURCES_IPFS.md
-bankr/
+
 .claude/
 tmp_build/
 tmp_build_old/
