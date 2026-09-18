@@ -1,18 +1,12 @@
 ---
 name: coffer
-description: >-
-  Earn fees by depositing ETH into the Coffer Vault, a multi-strategy managed
-  liquidity vault. Query and transact Coffer, run by Soteria Labs on Robinhood
-  (4663) — one share over several Uniswap V3 legs (volatile + stock pairs).
-  Deposit ETH, burn liquid shares to withdraw WETH, read vault
-  value / total shares / my shares / fees / rotating tokens / live stock pairs.
-  Use when the user asks about Coffer, the coffer vault, stock pairs in Coffer,
-  or Coffer deposits and withdrawals. Not for Auto vaults or UFloat.
+description: Earn fees by depositing ETH into the Coffer Vault, a multi-strategy managed liquidity vault. Query and transact Coffer, run by Soteria Labs on Robinhood (4663) - one share over several Uniswap V3 legs (volatile + stock pairs). Deposit ETH, burn liquid shares to withdraw WETH, read vault value / total shares / my shares / fees / rotating tokens / live stock pairs. Use when the user asks about Coffer, the coffer vault, stock pairs in Coffer, or Coffer deposits and withdrawals. Not for Auto vaults or UFloat.
 tags: [defi, vault, float, coffer, robinhood, uniswap-v3]
 version: 1
 visibility: public
 metadata:
-  homepage: "https://github.com/soterialabs2025/coffer_contracts"
+  clawdbot:
+    homepage: "https://github.com/soterialabs2025/coffer_contracts"
 ---
 
 # Coffer (Robinhood vault)
