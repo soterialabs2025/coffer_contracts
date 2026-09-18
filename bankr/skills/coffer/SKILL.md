@@ -1,9 +1,10 @@
 ---
 name: coffer
 description: >-
-  Query and transact Coffer, an automated liquidity vault managed by Soteria
-  Labs, on Robinhood (4663) — one share over several Uniswap V3 legs (volatile
-  + stock pairs). Deposit ETH, burn liquid shares to withdraw WETH, read vault
+  Earn fees by depositing ETH into the Coffer Vault, a multi-strategy managed
+  liquidity vault. Query and transact Coffer, run by Soteria Labs on Robinhood
+  (4663) — one share over several Uniswap V3 legs (volatile + stock pairs).
+  Deposit ETH, burn liquid shares to withdraw WETH, read vault
   value / total shares / my shares / fees / rotating tokens / live stock pairs.
   Use when the user asks about Coffer, the coffer vault, stock pairs in Coffer,
   or Coffer deposits and withdrawals. Not for Auto vaults or UFloat.
