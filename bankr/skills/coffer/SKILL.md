@@ -12,9 +12,7 @@ tags: [defi, vault, float, coffer, robinhood, uniswap-v3]
 version: 1
 visibility: public
 metadata:
-  clawdbot:
-    emoji: "🧰"
-    homepage: "https://github.com/soterialabs2025/coffer_contracts"
+  homepage: "https://github.com/soterialabs2025/coffer_contracts"
 ---
 
 # Coffer (Robinhood vault)
